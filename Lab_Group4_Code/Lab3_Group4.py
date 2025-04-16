@@ -1,7 +1,7 @@
 # CIS-117 Lab3
 # Reads country_full.csv and categorizes each country to the region into new csv files
-# Finola Miqailla
-# Ailing Chow
+# Finola Miqailla (Reading)
+# Ailing Chow (Writing)
 # Group 4
 
 import csv
